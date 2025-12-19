@@ -1,0 +1,8 @@
+{
+  "name": "BeFit",
+  "description": "A full-stack AI-powered diet adjustment and tracking application.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
